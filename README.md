@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=and-dutra&label=Profile%20views&color=0e75b6&style=flat" alt="and-dutra" /> </p>
 
-- 🔭 I’m currently working at [Doris](http://doris.mobi/)
+- 🔭 I work at [Doris](http://doris.mobi/)
 
-- 🌱 I’m currently learning **Elixir**
+- 🌱 I’m currently learning **Next.js and AppSync**
 
 - 💬 Ask me about **Node.js, Nest.js, React Native**
 
