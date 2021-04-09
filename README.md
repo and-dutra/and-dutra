@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=and-dutra&label=Profile%20views&color=0e75b6&style=flat" alt="and-dutra" /> </p>
 
-- 🔭 I work at [Doris](http://doris.mobi/)
+- 🔭 I work as a software consultant ( contractor ) via G2I current working for Webflow.
 
 - 🌱 I’m currently learning **Next.js and AppSync**
 
