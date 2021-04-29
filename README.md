@@ -5,7 +5,7 @@
 
 - 🔭 I work as a software consultant ( contractor ) via G2I current working for Webflow.
 
-- 🌱 I’m currently learning **Next.js and AppSync**
+- 🌱 I’m currently learning **Solidity**
 
 - 💬 Ask me about **Node.js, Nest.js, React Native**
 
