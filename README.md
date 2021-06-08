@@ -5,9 +5,7 @@
 
 - 🔭 I work as a software consultant ( contractor ) via G2I current working for Webflow.
 
-- 🌱 I’m currently learning **Solidity**
-
-- 💬 Ask me about **Node.js, Nest.js, React Native**
+- 💬 Ask me about **JavaScript, Node.js, Nest.js, React Native**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
